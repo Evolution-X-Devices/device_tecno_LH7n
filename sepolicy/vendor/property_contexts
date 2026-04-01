@@ -41,3 +41,7 @@ vendor.tee.googlekey.status                          u:object_r:vendor_mtk_trust
 
 # VT
 ro.vendor.vt.                               u:object_r:vendor_mtk_vendor_vt_prop:s0
+
+# MTK OMX
+vendor.mtk.omx.core  u:object_r:tecno_omx_core_prop:s0
+vendor.mtk.sec.video.path.support u:object_r:vendor_mtk_sec_video_path_support_prop:s0
