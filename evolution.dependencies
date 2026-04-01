@@ -1,0 +1,50 @@
+[
+  {
+    "repository": "Evolution-X-Devices/vendor_tecno_LH7n",
+    "target_path": "vendor/tecno/LH7n",
+    "remote": "github-non-los",
+    "branch": "bka"
+  },
+  {
+    "repository": "Evolution-X-Devices/vendor_mediatek_ims",
+    "target_path": "vendor/mediatek/ims",
+    "remote": "github-non-los",
+    "branch": "bka"
+  },
+  {
+    "repository": "MillenniumOSS/android_hardware_mediatek",
+    "target_path": "hardware/mediatek",
+    "remote": "github-non-los",
+    "branch": "sixteen"
+  },
+  {
+    "repository": "Evolution-X-Devices/device_tecno_LH7n-kernel",
+    "target_path": "device/tecno/LH7n-kernel",
+    "remote": "github-non-los",
+    "branch": "bka"
+  },
+  {
+    "repository": "Evolution-X-Devices/device_millennium_common-kernel",
+    "target_path": "device/millennium/common-kernel",
+    "remote": "github-non-los",
+    "branch": "bka"
+  },
+{
+    "repository": "Evolution-X-Devices/device_mediatek_sepolicy_vndr",
+    "target_path": "device/mediatek/sepolicy_vndr",
+    "remote": "github-non-los",
+    "branch": "bka"
+  },
+{
+    "repository": "MillenniumOSS/android_hardware_millennium",
+    "target_path": "hardware/millennium",
+    "remote": "github-non-los",
+    "branch": "sixteen"
+  },
+  {
+    "repository": "MillenniumOSS/android_vendor_JamesDSP",
+    "target_path": "vendor/JamesDSP",
+    "remote": "github-non-los",
+    "branch": "sixteen"
+  }
+]
