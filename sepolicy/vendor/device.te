@@ -7,3 +7,7 @@ type tkv_block_device, dev_type;
 
 # Tranfs
 type tranfs_block_device, dev_type;
+
+# C2
+type vcodec_device, dev_type;
+type mtk_disp_device, dev_type;
