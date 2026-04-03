@@ -12,10 +12,10 @@
     "branch": "bka"
   },
   {
-    "repository": "MillenniumOSS/android_hardware_mediatek",
+    "repository": "Evolution-X-Devices/hardware_mediatek",
     "target_path": "hardware/mediatek",
     "remote": "github-non-los",
-    "branch": "sixteen"
+    "branch": "bka"
   },
   {
     "repository": "Evolution-X-Devices/device_tecno_LH7n-kernel",
