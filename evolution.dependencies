@@ -36,15 +36,15 @@
     "branch": "bka"
   },
 {
-    "repository": "MillenniumOSS/android_hardware_millennium",
+    "repository": "Andreyka445/android_hardware_millennium",
     "target_path": "hardware/millennium",
     "remote": "github-non-los",
-    "branch": "sixteen"
+    "branch": "bka"
   },
   {
-    "repository": "MillenniumOSS/android_vendor_JamesDSP",
+    "repository": "Andreyka445/android_vendor_JamesDSP",
     "target_path": "vendor/JamesDSP",
     "remote": "github-non-los",
-    "branch": "sixteen"
+    "branch": "bka"
   }
 ]
